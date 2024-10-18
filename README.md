@@ -1,7 +1,7 @@
 ## Hi my name is Aclécio Cruz 👋
 
 - 🔭 I am currently working as a backend developer using the Kotlin language together with the Spring framework
-- 🌱 Estudando sobre microserviços e modelo de arquitetura orientada a eventos utilizando kafka, SQS, SNS e RabbitMQ
+- 🌱 Studying microservices and event-driven architecture model using kafka, SQS, SNS and RabbitMQ
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: Astronomy
