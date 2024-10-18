@@ -26,7 +26,7 @@
 
 ## 📫 How to reach me:
 <div>
-    <a href="https://www.linkedin.com/in/acleciocruz/ target="_blank">
+    <a href="https://www.linkedin.com/in/acleciocruz/ target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     <a/>
     <a href="mailto:eng.acleciocruz@gmail.com" target="_blank">
